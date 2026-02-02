@@ -53,7 +53,7 @@ Setiap nasabah mendapatkan nomor tiket otomatis (A001, A002, dst.)
 Antrian dilayani sesuai urutan kedatangan
 Sistem dapat menampilkan antrian dan menghitung jumlah nasabah yang telah dilayani
 
-Kesimpulan Aktivitas 3:
+* **Kesimpulan Aktivitas 3**:
 Queue sangat cocok digunakan untuk sistem pelayanan berbasis antrian karena menjamin keadilan layanan sesuai urutan masuk (FIFO). Implementasi ini mencerminkan penggunaan Queue pada kasus nyata.
 
 ---
