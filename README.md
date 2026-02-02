@@ -25,6 +25,8 @@ Saat jumlah elemen melebihi kapasitas, data baru tidak dapat ditambahkan
 
 * **Kesimpulan Aktivitas 1**:
 Queue berbasis array memiliki keterbatasan kapasitas. Jika queue penuh, operasi enqueue tidak dapat dilakukan. Hal ini menunjukkan bahwa implementasi manual memerlukan pengelolaan kapasitas secara eksplisit.
+* Contoh:
+Saat kapasitas 3 lalu ditambah 4 elemen, queue menolak elemen ke-4. Ini membuktikan queue array memiliki kapasitas terbatas.
 
 ---
 
